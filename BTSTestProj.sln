@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTSTestProj", "BTSTestProj\BTSTestProj.btproj", "{D9207823-A85A-4480-8FB8-1492E804A55D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bindings", "Bindings", "{3286B3DF-50CB-44AD-A744-499C0C4BE368}"
+	ProjectSection(SolutionItems) = preProject
+		Bindings\BTSTestProj.BindingInfo.xml = Bindings\BTSTestProj.BindingInfo.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9207823-A85A-4480-8FB8-1492E804A55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9207823-A85A-4480-8FB8-1492E804A55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9207823-A85A-4480-8FB8-1492E804A55D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D9207823-A85A-4480-8FB8-1492E804A55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9207823-A85A-4480-8FB8-1492E804A55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9207823-A85A-4480-8FB8-1492E804A55D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
