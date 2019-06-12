@@ -13,8 +13,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", "{1DD2D3CF-6F17-4411-988B-D8F70672AC62}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Deployment.btdfproj = Deployment\Deployment.btdfproj
+		Deployment\InstallWizard.xml = Deployment\InstallWizard.xml
 		Deployment\PortBindingsMaster.xml = Deployment\PortBindingsMaster.xml
 		Deployment\SettingsFileGenerator.xml = Deployment\SettingsFileGenerator.xml
+		Deployment\UnInstallWizard.xml = Deployment\UnInstallWizard.xml
 	EndProjectSection
 EndProject
 Global
