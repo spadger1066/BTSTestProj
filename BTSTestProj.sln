@@ -14,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", 
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Deployment.btdfproj = Deployment\Deployment.btdfproj
 		Deployment\InstallWizard.xml = Deployment\InstallWizard.xml
+		Deployment\License.rtf = Deployment\License.rtf
 		Deployment\PortBindingsMaster.xml = Deployment\PortBindingsMaster.xml
 		Deployment\SettingsFileGenerator.xml = Deployment\SettingsFileGenerator.xml
 		Deployment\UnInstallWizard.xml = Deployment\UnInstallWizard.xml
