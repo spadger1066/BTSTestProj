@@ -71,5 +71,6 @@
     To include individual files, add an ItemGroup with AdditionalFiles elements.
   -->
   <Target Name="CustomRedist">
+	  <!-- Doing nothing here -->
   </Target>
 </Project>
